@@ -9,3 +9,5 @@ asymmetry/testAsym.C: make the asymmetry of pi0 with some DLE conditions (simple
 asymmetry/neuTestAsym.C: make the asymmetry of neutron with some DLE conditions (simple version)
 
 asymmetry/asym.C: make the main asymmetry of pi0 with some DLE conditions (need a revision)
+
+asymmetry/compareCondition.C: draw some plot
